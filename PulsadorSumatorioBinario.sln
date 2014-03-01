@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulsadorSumatorioBinario_Tests", "PulsadorSumatorioBinario_Tests\PulsadorSumatorioBinario_Tests.csproj", "{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulsadorSumatorioBinario_Design", "PulsadorSumatorioBinario_Design\PulsadorSumatorioBinario_Design.csproj", "{03AEADA6-839C-4712-9A0E-BB079D81C261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulsadorSumatorioBinario_Classes", "PulsadorSumatorioBinario_Classes\PulsadorSumatorioBinario_Classes.csproj", "{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Debug|x86.ActiveCfg = Debug|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Debug|x86.Build.0 = Debug|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Release|Any CPU.ActiveCfg = Release|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Release|x86.ActiveCfg = Release|x86
+		{AC638D73-1DE1-42FF-B4E0-2CBEA5251689}.Release|x86.Build.0 = Release|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Debug|x86.ActiveCfg = Debug|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Debug|x86.Build.0 = Debug|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Release|Any CPU.ActiveCfg = Release|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Release|Mixed Platforms.Build.0 = Release|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Release|x86.ActiveCfg = Release|x86
+		{03AEADA6-839C-4712-9A0E-BB079D81C261}.Release|x86.Build.0 = Release|x86
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9EBB945E-8A1D-41DF-BB80-7E75DF957AB5}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
