@@ -51,7 +51,7 @@ namespace PulsadorSumatorioBinario_Design
             {
                 PictureBox pb = new PictureBox();
                 pb.Size = new Size(48, 48);
-                if(c.ToString() == pulsador._TRUE_.ToString())
+                if(c.ToString() == pulsador._TRUE_VALUE.ToString())
                     pb.Image = GetImagen(true);
                 else
                     pb.Image = GetImagen(false);
